@@ -1,0 +1,22 @@
+[
+  {
+    "id": "App.errorMessage",
+    "description": "The error message when api response as 404 not found",
+    "defaultMessage": "The device is now private or deleted."
+  },
+  {
+    "id": "App.errorButton",
+    "description": "Click error Button",
+    "defaultMessage": "Go to MCS website"
+  },
+  {
+    "id": "App.Creator 1",
+    "description": "Creator 1",
+    "defaultMessage": "Creator"
+  },
+  {
+    "id": "App.Creator 2",
+    "description": "Creator 2",
+    "defaultMessage": "Creator"
+  }
+]
